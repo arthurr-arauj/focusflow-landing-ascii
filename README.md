@@ -27,7 +27,7 @@ Siga os passos abaixo para rodar o projeto em sua máquina:
 1.  **Clone o repositório:**
     ```bash
     git clone https://github.com/arthurr-arauj/focusflow-landing-ascii.git
-    cd nome-da-pasta-do-projeto 
+    cd focusflow-landing-ascii 
     ```
 2.  **Instale as dependências:**
     ```bash
