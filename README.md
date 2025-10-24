@@ -13,10 +13,10 @@ FocusFlow Landing Page - Desafio Front-End ASCII EJ
 
 * [cite_start]**React.js** (com Vite) [cite: 23]
 * [cite_start]**Tailwind CSS** [cite: 23]
-* **React Icons** (para iconografia)
-* **React Intersection Observer** (para animações de scroll)
+* **React Icons**
+* **React Intersection Observer** 
 * [cite_start]**Vercel** (para deploy) [cite: 31, 81]
-* [cite_start]**Git & GitHub** (para versionamento) [cite: 18, 30]
+* [cite_start]**Git & GitHub**  [cite: 18, 30]
 
 ---
 
