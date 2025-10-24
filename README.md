@@ -1,22 +1,22 @@
 FocusFlow Landing Page - Desafio Front-End ASCII EJ
 
-![FocusFlow Screenshot](URL_DA_SUA_IMAGEM_AQUI) 
+![FocusFlow Screenshot](https://github.com/arthurr-arauj/focusflow-landing-ascii/blob/main/public/Print%20site.jpg) 
 ## 📝 Descrição do Projeto
 
 
-[cite_start]O objetivo principal foi criar uma interface moderna, responsiva e interativa, demonstrando criatividade, visão de UI/UX e boas práticas de desenvolvimento front-end.
+O objetivo principal foi criar uma interface moderna, responsiva e interativa, demonstrando criatividade, visão de UI/UX e boas práticas de desenvolvimento front-end.
 
-**Link do Deploy:** [SEU_LINK_DO_VERCEL_AQUI] 
+**Link do Deploy:** https://focusflow-ascii.vercel.app/ 
 ---
 
 ## Tecnologias Utilizadas
 
-* [cite_start]**React.js** (com Vite) [cite: 23]
-* [cite_start]**Tailwind CSS** [cite: 23]
+* **React.js** (com Vite)
+* **Tailwind CSS**
 * **React Icons**
 * **React Intersection Observer** 
-* [cite_start]**Vercel** (para deploy) [cite: 31, 81]
-* [cite_start]**Git & GitHub**  [cite: 18, 30]
+* **Vercel** (para deploy)
+* **Git & GitHub** 
 
 ---
 
